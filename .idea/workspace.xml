@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe0a7877-476d-4037-8229-8262b18642f5" name="Default Changelist" comment="" />
+    <list default="true" id="fe0a7877-476d-4037-8229-8262b18642f5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jWRAVe7aXW6xCGGnIdN5bquJEN" />
   <component name="ProjectViewState">
@@ -15,6 +21,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/Calculation_git" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -30,6 +38,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="820" y="478" key="FileChooserDialogImpl" timestamp="1603919487812">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="820" y="478" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603919487812" />
     <state width="1161" height="227" key="GridCell.Tab.0.bottom" timestamp="1603917825382">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
